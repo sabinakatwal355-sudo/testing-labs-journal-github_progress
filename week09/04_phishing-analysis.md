@@ -31,15 +31,19 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
+  As displayed the sender appears to be the security team and the email address is <support@secure-verification-update.com>
 2.  Does the email create urgency or pressure?
+   Yes. It uses an artificial countdown and threatening language to panic the user into acting quickly without thinking.
 3.  Are there spelling or grammar mistakes?
+   Yes.  "Failure" is misspelled as "failiure" in the last paragaraph.
 4.  Does the link match the organisation domain?
+   No. The domain looks intentionally generic  and confusing. It dies not belong to a known, legitimate organization(like microsoft,google, or a specific bank), which is typical of a phising infrastructure designed to mimic security alerts.
 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
-------------------------------------------------------------------------
+Attackers use phising emails because they target the weakest link in cybersecurity: human posychology. It is often much easier to trick a person into giving away their credentials or clicking a malicious link using urgency and fear than it is to hack through a secure firewall. It allows attackers to easily 
+steal credentials, deploy malware, or gain unauthorized access to networks at a very low cost.-----------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
 
