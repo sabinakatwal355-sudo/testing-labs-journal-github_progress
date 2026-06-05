@@ -13,9 +13,11 @@ Run:
 ### Questions
 
 1.  How many users exist on the system?
+There are 37 accounts on the system.
 2.  Which accounts appear to be system accounts?
+Accounts like root,daemon, bin, sys, sync, games, man, lp, mail, news, uucp, proxy, ww-data, backup, list, irc, _apt, nobody, systemd_network, dhcpcd, messagebus, sshd, and statd.These accounts appear to be system accounts.
 3.  Why do operating systems create system accounts?
-
+They are used to run specific background service, daemons, or system processes with the absolute minimum privileges required. This follows
 ### Reflection
 
 Explain why understanding system users is important for cybersecurity.
