@@ -10,4 +10,4 @@ Software is a collection of intangible instructions, data, and programs that tel
 
 ## How Do Hardware and Software Interact?
 Write **at least 50 words** describing how they interact.
-Hardware and software interact through a layered 
+Hardware and software interact through a layered relationship where software acts as the commanding force and hardware acts as the execution engine. When a user interacts with the application software, that software sends high-level commands down to the operating system. The operating system translates these requests into low-level machine code(binary) that the physical hardware, like the CPU and memory, can understand and process. Device drivers often act as specific translators between the two, ensuring a graphics card or printer reacts correctly to a software command. Neither can function usefully without the active cooperation of the other.
